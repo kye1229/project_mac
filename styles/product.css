@@ -1,0 +1,47 @@
+main {}
+<<<<<<< HEAD
+main .path {
+    font-size:0.88rem; letter-spacing: -0.02em; display:flex;
+    width:1440px; margin:120px auto 30px;
+}
+main .path a {margin-right:5px;}
+main .path p { margin-left:5px;}
+main .photo_inform {width:1440px; margin:0 auto 140px;}
+main .photo_inform .photo_wrap {}
+main .photo_inform .photo_wrap .photo_list {}
+main .photo_inform .photo_wrap .photo_list > a {}
+main .photo_inform .photo_wrap .photo_list > a img {}
+main .photo_inform .photo_wrap .photo_list .thum_swiper {}
+main .photo_inform .photo_wrap .photo_list .thum_swiper .swipe-wrapper {}
+main .photo_inform .photo_wrap .photo_list .thum_swiper .swipe-wrapper .swiper-slide {}
+main .photo_inform .photo_wrap .photo_list .thum_swiper .swipe-wrapper .swiper-slide a {}
+main .photo_inform .photo_wrap .photo_list .thum_swiper .swipe-wrapper .swiper-slide a img {}
+main .photo_inform .photo_wrap .big_thum {}
+main .photo_inform .photo_wrap .big_thum p {}
+main .photo_inform .photo_wrap .big_thum p img {}
+main .photo_inform .prd_inform {}
+main .photo_inform .prd_inform p {}
+main .photo_inform .prd_inform h2 {}
+main .photo_inform .prd_inform .color_list {}
+main .photo_inform .prd_inform .color_list p {}
+main .photo_inform .prd_inform .color_list p:nth-child(1) {}
+main .photo_inform .prd_inform .color_list p:nth-child(2) {}
+main .photo_inform .prd_inform .color_list p:nth-child(3) {}
+main .photo_inform .prd_inform .color_list p:nth-child(4) {}
+main .photo_inform .prd_inform .color_list p:nth-child(5) {}
+main .photo_inform .prd_inform .color_list p:nth-child(6) {}
+main .photo_inform .prd_inform .color_list p:nth-child(7) {}
+main .photo_inform .prd_inform .color_list p:nth-child(8) {}
+main .photo_inform .prd_inform .color_list p:nth-child(9) {}
+main .photo_inform .prd_inform .color_list p:nth-child(10) {}
+main .photo_inform .prd_inform .color_list p:nth-child(11) {}
+main .photo_inform .prd_inform .color_list p:nth-child(12) {}
+main .photo_inform .prd_inform .color_list p:nth-child(13) {}
+main .photo_inform .prd_inform .color_list p:nth-child(14) {}
+main .photo_inform .prd_inform .color_list p:last-child {}
+main .photo_inform .prd_inform .color_name {}
+=======
+main .path {}
+main .path a {}
+main .path p {}
+>>>>>>> 58fc6e0ee339fec47ed5efd092f20105abcbfcfc
